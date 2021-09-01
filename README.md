@@ -38,3 +38,12 @@ Sjekk hvilken branch vi er på
 
 Gå til eksisterende branch
 - `git checkout mybranch`
+
+
+# Se på gamle versjoner
+Se på en gammel versjon
+- `git checkout commitid` Dette er bare for å se på hvordan en gammel versjon ser ut - ikke gjør noen endringer her, det blir bare rot.
+
+Hopp tilbake til den versjonen du jobbet i
+- `git checkout denbranchendujobbeti`
+
