@@ -25,3 +25,14 @@ Se på forskjeller
 - `git diff`
 - `git diff --staged` alt som er addet, men ikke commitet
 - `git diff <ref> <ref>` der ref er enten branch eller commit id (alså den gule koden på starten av linjene når man skriver git log --oneline)
+
+# Branch
+
+Lag ut ny branch
+- `git checkout -b mybranch`
+
+Sjekk hvilken branch vi er på
+- `git branch`
+
+Gå til eksisterende branch
+- `git checkout mybranch`
