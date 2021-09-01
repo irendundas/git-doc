@@ -47,3 +47,7 @@ Se på en gammel versjon
 Hopp tilbake til den versjonen du jobbet i
 - `git checkout denbranchendujobbeti`
 
+# Reset
+Gå tilbake til en tidligere versjon slik at denne gamle versjonen blir den gjeldene nyeste versjonen. Man sletter alt som har skjedd etter den gamle versjonen man tilbakestiller til. 
+- `git reset commitid` 
+
