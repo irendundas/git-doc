@@ -51,3 +51,7 @@ Hopp tilbake til den versjonen du jobbet i
 Gå tilbake til en tidligere versjon slik at denne gamle versjonen blir den gjeldene nyeste versjonen. Man sletter alt som har skjedd etter den gamle versjonen man tilbakestiller til. 
 - `git reset commitid` 
 
+# Merge
+Hent endringer fra branch inn i en annen branch, f.eks. master. Man må stå i den branchen man vil hente endringer inn i. 
+- `git merge mybranch`
+
