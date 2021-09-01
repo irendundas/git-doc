@@ -25,7 +25,7 @@ Se på forskjeller
 - `git diff`
 - `git diff --staged` alt som er addet, men ikke commitet
 - `git diff <ref> <ref>` der ref er enten branch eller commit id (alså den gule koden på starten av linjene når man skriver git log --oneline)
-- `git diff enbranch` sammenligner den du står i med enmaster. 
+- `git diff enbranch` sammenligner den du står i med enmaster. Det som er der du står men ikke i enbranch er grønt. Motsatt blir rødt. Alt som er felles er hvitt. 
 
 # Branch
 
