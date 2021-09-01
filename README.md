@@ -15,6 +15,7 @@ Når jeg har gjort endringer
 - `git add <sti-til-endrede-filer>` (<.> for alle filer)
 - `git commit -m "Her er en kommentar"`
 - `git commit` hvor det er masse beskrivelsestekst
+- `git commit --amend` fikse på gammel commit
 - `git push`
 
 Se på git historie
