@@ -2,6 +2,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib as mpl
 
+# Vår Dundas 2021
+
 def ColorLimits(fig: mpl.figure.Figure, N, vmin, vmax, cmap: str = 'viridis'):
     '''
     INPUT
